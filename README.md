@@ -3,7 +3,6 @@
 Coletor simples e robusto que faz web scraping dos preços de Soja do site da AgRural, normaliza a tabela (inclusive com rowspan), e realiza UPSERT no SQL Server com chave composta data + uf + praca.
 Inclui wrapper PowerShell e instruções para agendar no Windows (Task Scheduler).
 
-⚠️ Uso responsável: execute no máximo 1–3 vezes por dia. Respeite os termos de uso e a disponibilidade do site-fonte.
 
 ✨ Principais recursos
 
